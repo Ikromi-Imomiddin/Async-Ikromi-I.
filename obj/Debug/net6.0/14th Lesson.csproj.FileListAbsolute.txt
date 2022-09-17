@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\C#\Lessons\14th Lesson\obj\Debug\net6.0\14th Lesson.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Lessons\14th Lesson\obj\Debug\net6.0\14th Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\Lessons\14th Lesson\obj\Debug\net6.0\14th Lesson.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\Lessons\14th Lesson\obj\Debug\net6.0\14th Lesson.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\Lessons\14th Lesson\obj\Debug\net6.0\14th Lesson.csproj.CoreCompileInputs.cache
